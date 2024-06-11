@@ -204,8 +204,8 @@ function App() {
                 </div>
                 <h2 className="pt-5">Python</h2>
                 <div className="shadow w-full bg-green-100 mt-2">
-                  <div className="bg-green-600 text-xs leading-none py-1 text-center text-white" style={{ width: "60%" }}> 
-                    60% 
+                  <div className="bg-green-600 text-xs leading-none py-1 text-center text-white" style={{ width: "65%" }}> 
+                    65% 
                   </div>
                 </div>
               </div>
