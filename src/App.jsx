@@ -12,9 +12,9 @@ function App() {
           <span className="text-xl ml-3">KatoTakuma</span>
         </a>
         <nav className="md:ml-auto text-base">
-          <a href="#home" className="mr-5 hover:text-blue-400 duration-300">Home</a>
-          <a href="#About" className="mr-5 hover:text-blue-400 duration-300">About</a>
-          <a href="#Skills" className="mr-5 hover:text-blue-400 duration-300">Skills</a>
+          <a href="#home" className="mr-5 hover:text-blue-400 duration-300 scroll-smooth">Home</a>
+          <a href="#About" className="mr-5 hover:text-blue-400 duration-300 scroll-smooth">About</a>
+          <a href="#Skills" className="mr-5 hover:text-blue-400 duration-300 scroll-smooth">Skills</a>
           {/* <a href="#Blog" className=" hover:text-blue-400 first-letter:duration-300">Blog</a> */}
         </nav>
       </div>
